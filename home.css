@@ -694,7 +694,16 @@
         height: 100%;
     }
     .sub> h3{
-        font-size: 20px;
+        font-size: 17px;
+    }
+    .sub> p{
+        font-size: 13px;
+    }
+    .sub> button{
+        width: 40%;
+    }
+    .notify> p{
+        font-size: 18px;
     }
 }
 
